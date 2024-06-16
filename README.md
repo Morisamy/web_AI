@@ -1,5 +1,35 @@
 
 
+# AI Text Chat
+
+### AI-Powered Text Chat Application
+
+**Project Overview:**
+AI Text Chat is an innovative application that leverages Python and TypeScript to create an intelligent text-based conversational agent. This project aims to provide users with a seamless and interactive chatting experience driven by artificial intelligence.
+
+---
+
+### Key Features:
+- **Natural Language Processing:** Utilizes advanced NLP techniques for understanding and generating human-like responses.
+- **Contextual Understanding:** Capable of maintaining context across conversations for more meaningful interactions.
+- **Customizable Responses:** Allows customization of responses based on user preferences and interaction history.
+- **Real-Time Interaction:** Provides instant responses to user queries with minimal latency.
+- **Cross-Platform Compatibility:** Supports deployment across various platforms including web and desktop.
+
+---
+
+### Technologies Used:
+- **Backend:** Python (NLP libraries), Flask (API development)
+- **Frontend:** TypeScript, React (for web interface)
+- **Database:** Optional integration for user data storage
+
+---
+
+### Demo:
+Experience the power of AI-driven text chat and explore its capabilities by watching the project demonstration on YouTube [here](https://youtu.be/7xU8UL7G0bo).
+
+
+
 ## Installation
 
 <div style="color: red;">
@@ -35,32 +65,3 @@ $ pnpm run dev
 $ pnpm run build
 $ pnpm run start
 ```
-
-# AI Text Chat
-
-### AI-Powered Text Chat Application
-
-**Project Overview:**
-AI Text Chat is an innovative application that leverages Python and TypeScript to create an intelligent text-based conversational agent. This project aims to provide users with a seamless and interactive chatting experience driven by artificial intelligence.
-
----
-
-### Key Features:
-- **Natural Language Processing:** Utilizes advanced NLP techniques for understanding and generating human-like responses.
-- **Contextual Understanding:** Capable of maintaining context across conversations for more meaningful interactions.
-- **Customizable Responses:** Allows customization of responses based on user preferences and interaction history.
-- **Real-Time Interaction:** Provides instant responses to user queries with minimal latency.
-- **Cross-Platform Compatibility:** Supports deployment across various platforms including web and desktop.
-
----
-
-### Technologies Used:
-- **Backend:** Python (NLP libraries), Flask (API development)
-- **Frontend:** TypeScript, React (for web interface)
-- **Database:** Optional integration for user data storage
-
----
-
-### Demo:
-Experience the power of AI-driven text chat and explore its capabilities by watching the project demonstration on YouTube [here](https://youtu.be/7xU8UL7G0bo).
-
